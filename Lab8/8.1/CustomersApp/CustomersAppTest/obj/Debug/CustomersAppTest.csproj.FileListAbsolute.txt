@@ -1,0 +1,8 @@
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab7\7.1\CustomersApp\CustomersAppTest\bin\Debug\CustomersAppTest.dll
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab7\7.1\CustomersApp\CustomersAppTest\bin\Debug\CustomersAppTest.pdb
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab7\7.1\CustomersApp\CustomersAppTest\bin\Debug\CustomersApp.exe
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab7\7.1\CustomersApp\CustomersAppTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab7\7.1\CustomersApp\CustomersAppTest\bin\Debug\CustomersApp.pdb
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab7\7.1\CustomersApp\CustomersAppTest\obj\Debug\CustomersAppTest.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab7\7.1\CustomersApp\CustomersAppTest\obj\Debug\CustomersAppTest.dll
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab7\7.1\CustomersApp\CustomersAppTest\obj\Debug\CustomersAppTest.pdb
