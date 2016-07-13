@@ -1,0 +1,6 @@
+C:\Users\Alex\Desktop\CodeValue\Labes\Lan10\10.2\FileFinder\FileFinder\bin\Debug\FileFinder.exe.config
+C:\Users\Alex\Desktop\CodeValue\Labes\Lan10\10.2\FileFinder\FileFinder\bin\Debug\FileFinder.exe
+C:\Users\Alex\Desktop\CodeValue\Labes\Lan10\10.2\FileFinder\FileFinder\bin\Debug\FileFinder.pdb
+C:\Users\Alex\Desktop\CodeValue\Labes\Lan10\10.2\FileFinder\FileFinder\obj\Debug\FileFinder.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\CodeValue\Labes\Lan10\10.2\FileFinder\FileFinder\obj\Debug\FileFinder.exe
+C:\Users\Alex\Desktop\CodeValue\Labes\Lan10\10.2\FileFinder\FileFinder\obj\Debug\FileFinder.pdb

@@ -1,0 +1,12 @@
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab3\3.2\Retionals\bin\Debug\Retionals.exe.config
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab3\3.2\Retionals\bin\Debug\Retionals.exe
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab3\3.2\Retionals\bin\Debug\Retionals.pdb
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab3\3.2\Retionals\obj\Debug\Retionals.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab3\3.2\Retionals\obj\Debug\Retionals.exe
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab3\3.2\Retionals\obj\Debug\Retionals.pdb
+C:\Users\Alex\Desktop\CodeValue\Labes\Lan10\10.3\Retionals\bin\Debug\Retionals.exe.config
+C:\Users\Alex\Desktop\CodeValue\Labes\Lan10\10.3\Retionals\obj\Debug\Retionals.exe
+C:\Users\Alex\Desktop\CodeValue\Labes\Lan10\10.3\Retionals\obj\Debug\Retionals.pdb
+C:\Users\Alex\Desktop\CodeValue\Labes\Lan10\10.3\Retionals\bin\Debug\Retionals.exe
+C:\Users\Alex\Desktop\CodeValue\Labes\Lan10\10.3\Retionals\bin\Debug\Retionals.pdb
+C:\Users\Alex\Desktop\CodeValue\Labes\Lan10\10.3\Retionals\obj\Debug\Retionals.csprojResolveAssemblyReference.cache
