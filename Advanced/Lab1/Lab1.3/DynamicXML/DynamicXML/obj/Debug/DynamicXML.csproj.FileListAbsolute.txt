@@ -1,0 +1,6 @@
+C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab1\Lab1.3\DynamicXML\DynamicXML\bin\Debug\DynamicXML.exe.config
+C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab1\Lab1.3\DynamicXML\DynamicXML\bin\Debug\DynamicXML.exe
+C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab1\Lab1.3\DynamicXML\DynamicXML\bin\Debug\DynamicXML.pdb
+C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab1\Lab1.3\DynamicXML\DynamicXML\obj\Debug\DynamicXML.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab1\Lab1.3\DynamicXML\DynamicXML\obj\Debug\DynamicXML.exe
+C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab1\Lab1.3\DynamicXML\DynamicXML\obj\Debug\DynamicXML.pdb

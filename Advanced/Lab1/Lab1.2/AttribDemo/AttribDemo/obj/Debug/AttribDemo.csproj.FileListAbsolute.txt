@@ -1,0 +1,6 @@
+C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab1\Lab1.2\AttribDemo\AttribDemo\bin\Debug\AttribDemo.exe.config
+C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab1\Lab1.2\AttribDemo\AttribDemo\bin\Debug\AttribDemo.exe
+C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab1\Lab1.2\AttribDemo\AttribDemo\bin\Debug\AttribDemo.pdb
+C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab1\Lab1.2\AttribDemo\AttribDemo\obj\Debug\AttribDemo.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab1\Lab1.2\AttribDemo\AttribDemo\obj\Debug\AttribDemo.exe
+C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab1\Lab1.2\AttribDemo\AttribDemo\obj\Debug\AttribDemo.pdb
