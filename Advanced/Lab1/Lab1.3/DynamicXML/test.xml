@@ -19,5 +19,8 @@
       <Moon>Deimos</Moon>
     </Moons>
   </Planet>
+  <Planet>
+    <Name>My New Planet</Name>
+  </Planet>
   <!-- other data -->
 </Planets>
