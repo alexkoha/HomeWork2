@@ -1,10 +1,7 @@
-﻿using DynamicXML;
 using System;
 using System.Collections.Generic;
 using System.Dynamic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Xml.Linq;
 
 namespace DynamicXML
@@ -13,7 +10,7 @@ namespace DynamicXML
     {
         private readonly XElement _element;
 
-        private DynamicXElement(XElement element)
+        public DynamicXElement(XElement element)
         {
             _element = element;
         }
@@ -41,17 +38,63 @@ namespace DynamicXML
             return true;
         }
 
-        public override bool TryGetMember(GetMemberBinder binder, out object obj)
+        public override bool TryGetMember(GetMemberBinder binder, out object result)
         {
+            XElement getNode = _element.Element(binder.Name);
 
-            obj = new DynamicXElement(_element.Element(binder.Name));
+            if (getNode != null)
+            {
+                result = new DynamicXElement(getNode);
+                return true;
+            }
+            else
+            {
+                result = null;
+                return false;
+            }
+        }
+
+        public override bool TrySetMember(SetMemberBinder binder, object value)
+        {
+            XElement setNode = _element.Element(binder.Name);
+
+            if (setNode != null)
+            {
+                setNode.SetValue(value);
+            }
+            else
+            {
+                if (value.GetType() == typeof(DynamicXElement))
+                {
+                    _element.Add(new XElement(binder.Name));
+                }
+                else
+                {
+                    _element.Add(new XElement(binder.Name,value));
+                }
+            }
             return true;
+        }
+
+        public override bool TryConvert(ConvertBinder binder, out object result)
+        {
+            if (binder.Type == typeof(string))
+            {
+                result = _element.Value;
+                return true;
+            }
+            else
+            {
+                result = null;
+                return false;
+            }
         }
 
         public override string ToString()
         {
             return _element.Value.ToString();
         }
+
     }
 
     class Program
@@ -69,6 +112,9 @@ namespace DynamicXML
                 Console.WriteLine(ourMoon);
                 var marsMoon = planets["Planet", 3]["Moons", 0].Moon; // mars second moon
                 Console.WriteLine(marsMoon);
+                var myPlanet = planets["Planet", 4]; // mars second moon
+                Console.WriteLine(myPlanet);
+
             }
             catch (Exception)
             {
