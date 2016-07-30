@@ -21,7 +21,13 @@ namespace AttribDemo
 
     }
 
-    [AttributeUsage(AttributeTargets.Class | AttributeTargets.Struct)]
+    /**
+Unless specified, the AttributeUsage attribute disallows decorating the same target more than once
+It was a requirement that multiple attribute instances would be allowed to decorate a single target
+Consider :
+        [AttributeUsage(AttributeTargets.Class | AttributeTargets.Struct, AllowMultiple = true)]
+*/
+    [AttributeUsage(AttributeTargets.Class | AttributeTargets.Struct, AllowMultiple = true)]
     public class CodeReviewAttribute : Attribute
     {
         private string _name;
@@ -50,6 +56,7 @@ namespace AttribDemo
                 {
                     var temp = (CodeReviewAttribute)type.GetCustomAttribute(typeof(CodeReviewAttribute));
                     Console.WriteLine("{0} \t {1} \t {2}",temp.Name, temp.Date , temp.Approved);
+                    // note that you are using a bitwise operator '&' instead of boolean '&&'
                     isAllApproved = isAllApproved & temp.Approved;
                 }
             }

@@ -4,3 +4,9 @@ C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab1\Lab1.1\DynInvoke\DynInvoke\b
 C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab1\Lab1.1\DynInvoke\DynInvoke\obj\Debug\DynInvoke.csprojResolveAssemblyReference.cache
 C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab1\Lab1.1\DynInvoke\DynInvoke\obj\Debug\DynInvoke.exe
 C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab1\Lab1.1\DynInvoke\DynInvoke\obj\Debug\DynInvoke.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\5\Alex Kohatzki\HomeWork2\Advanced\Lab1\Lab1.1\DynInvoke\DynInvoke\bin\Debug\DynInvoke.exe.config
+D:\git\codevalue\advanced-net-course\home-assignments\5\Alex Kohatzki\HomeWork2\Advanced\Lab1\Lab1.1\DynInvoke\DynInvoke\obj\Debug\DynInvoke.exe
+D:\git\codevalue\advanced-net-course\home-assignments\5\Alex Kohatzki\HomeWork2\Advanced\Lab1\Lab1.1\DynInvoke\DynInvoke\obj\Debug\DynInvoke.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\5\Alex Kohatzki\HomeWork2\Advanced\Lab1\Lab1.1\DynInvoke\DynInvoke\bin\Debug\DynInvoke.exe
+D:\git\codevalue\advanced-net-course\home-assignments\5\Alex Kohatzki\HomeWork2\Advanced\Lab1\Lab1.1\DynInvoke\DynInvoke\bin\Debug\DynInvoke.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\5\Alex Kohatzki\HomeWork2\Advanced\Lab1\Lab1.1\DynInvoke\DynInvoke\obj\Debug\DynInvoke.csprojResolveAssemblyReference.cache

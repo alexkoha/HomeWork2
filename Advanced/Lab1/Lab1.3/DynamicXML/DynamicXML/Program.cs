@@ -10,6 +10,7 @@ namespace DynamicXML
     {
         private readonly XElement _element;
 
+        //Constructor should be private
         public DynamicXElement(XElement element)
         {
             _element = element;
@@ -25,6 +26,8 @@ namespace DynamicXML
         {
             string name = (string)indx[0];
             int index = (int)indx[1];
+
+            //This condition will never be true, because if it is not an 'InvalidCastException' will be thrown by your casting
             bool isObjNotOk = name.GetType() != typeof(string) || index.GetType() != typeof(int);
 
             if (isObjNotOk)

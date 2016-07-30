@@ -4,3 +4,9 @@ C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab1\Lab1.3\DynamicXML\DynamicXML
 C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab1\Lab1.3\DynamicXML\DynamicXML\obj\Debug\DynamicXML.csprojResolveAssemblyReference.cache
 C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab1\Lab1.3\DynamicXML\DynamicXML\obj\Debug\DynamicXML.exe
 C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab1\Lab1.3\DynamicXML\DynamicXML\obj\Debug\DynamicXML.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\5\Alex Kohatzki\HomeWork2\Advanced\Lab1\Lab1.3\DynamicXML\DynamicXML\bin\Debug\DynamicXML.exe.config
+D:\git\codevalue\advanced-net-course\home-assignments\5\Alex Kohatzki\HomeWork2\Advanced\Lab1\Lab1.3\DynamicXML\DynamicXML\obj\Debug\DynamicXML.exe
+D:\git\codevalue\advanced-net-course\home-assignments\5\Alex Kohatzki\HomeWork2\Advanced\Lab1\Lab1.3\DynamicXML\DynamicXML\obj\Debug\DynamicXML.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\5\Alex Kohatzki\HomeWork2\Advanced\Lab1\Lab1.3\DynamicXML\DynamicXML\bin\Debug\DynamicXML.exe
+D:\git\codevalue\advanced-net-course\home-assignments\5\Alex Kohatzki\HomeWork2\Advanced\Lab1\Lab1.3\DynamicXML\DynamicXML\bin\Debug\DynamicXML.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\5\Alex Kohatzki\HomeWork2\Advanced\Lab1\Lab1.3\DynamicXML\DynamicXML\obj\Debug\DynamicXML.csprojResolveAssemblyReference.cache
