@@ -10,3 +10,9 @@ C:\Users\Alex\Desktop\CodeValue\Labes\Lan10\10.3\Retionals\obj\Debug\Retionals.p
 C:\Users\Alex\Desktop\CodeValue\Labes\Lan10\10.3\Retionals\bin\Debug\Retionals.exe
 C:\Users\Alex\Desktop\CodeValue\Labes\Lan10\10.3\Retionals\bin\Debug\Retionals.pdb
 C:\Users\Alex\Desktop\CodeValue\Labes\Lan10\10.3\Retionals\obj\Debug\Retionals.csprojResolveAssemblyReference.cache
+D:\git\codevalue\advanced-net-course\home-assignments\5\Alex Kohatzki\HomeWork2\Lab10\10.3\Retionals\bin\Debug\Retionals.exe.config
+D:\git\codevalue\advanced-net-course\home-assignments\5\Alex Kohatzki\HomeWork2\Lab10\10.3\Retionals\obj\Debug\Retionals.exe
+D:\git\codevalue\advanced-net-course\home-assignments\5\Alex Kohatzki\HomeWork2\Lab10\10.3\Retionals\obj\Debug\Retionals.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\5\Alex Kohatzki\HomeWork2\Lab10\10.3\Retionals\bin\Debug\Retionals.exe
+D:\git\codevalue\advanced-net-course\home-assignments\5\Alex Kohatzki\HomeWork2\Lab10\10.3\Retionals\bin\Debug\Retionals.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\5\Alex Kohatzki\HomeWork2\Lab10\10.3\Retionals\obj\Debug\Retionals.csprojResolveAssemblyReference.cache

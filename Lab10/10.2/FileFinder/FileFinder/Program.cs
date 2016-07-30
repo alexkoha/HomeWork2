@@ -8,6 +8,7 @@ namespace FileFinder
         {
             try
             {
+              
                 if (args.Length == 2)
                 {
                     LookForFiles newSearch = new LookForFiles();

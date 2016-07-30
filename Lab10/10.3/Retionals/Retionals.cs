@@ -101,6 +101,9 @@ namespace Retionals
                 _denomirator = a._denomirator * b._denomirator
             };
 
+            //consider using  'double.NaN' instead of zero in this case
+            //newRetional._result = (newRetional._denomirator != 0) ? (double)newRetional._numerator / newRetional._denomirator : double.NaN;
+
             newRetional._result = (newRetional._denomirator != 0) ? (double)newRetional._numerator / newRetional._denomirator : 0;
 
             return newRetional;
