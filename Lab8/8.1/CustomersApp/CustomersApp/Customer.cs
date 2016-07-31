@@ -33,8 +33,10 @@ namespace CustomersApp
 
         public int CompareTo(Customer other)
         {
+            //The conveintion in C# is to start body expressions in a seperate line and with bracets "{ }", even for oneliners
             if (other == null) return 1;
 
+            //Read more about cultures and strings in .Net
             return string.Compare(_name, other._name);
         }
 
@@ -45,10 +47,15 @@ namespace CustomersApp
             return (_name == other._name && _id == other._id);
         }
 
+        //Why is this method here and not outside of this class?
         public static bool CustomerAK(Customer customer)
         {
+            //this is better.
+            //var firstChar = customer.Name[0];
+            //if( firstChar >= 'a' && firstChar <= 'k' || firstChar >= 'A' && firstChar <= 'K')
             for (char i = 'A'; i <= 'K'; i++)
             {
+                //use the 'Name' property.
                 if (customer._name[0] == i) return true;
             }
             return false;

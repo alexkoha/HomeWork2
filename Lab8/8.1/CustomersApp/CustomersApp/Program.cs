@@ -23,9 +23,19 @@ namespace CustomersApp
     {
         static IEnumerable<Customer> GetCustomers(IEnumerable<Customer> arr, CustomerFilter del)
         {
+            //Consier the use of yield return.
+            //foreach (var customer in arr)
+            //{
+            //    if (del(customer))
+            //    {
+            //        yield return customer;
+            //    }
+            //}
+
             var temp = new List<Customer>();
             foreach (var item in arr)
             {
+                //The conveintion in C# is to start body expressions in a seperate line and with bracets "{ }", even for oneliners
                 if (del(item)) temp.Add(item);
             }
             return temp;
@@ -82,7 +92,8 @@ namespace CustomersApp
             CustomerFilter less100ID = custumer => custumer.ID < 100 ; // lambda expression
 
             var AfterLess100Id = GetCustomers(listCust, less100ID);
-
+            
+            //Consider extracting this logic to another method
             foreach (var item in AfterLess100Id)
             {
                 item.Display();

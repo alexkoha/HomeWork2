@@ -4,6 +4,8 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace CustomersAppTest
 {
+    //You are testing only the customers, without the delegates :)
+    //Cool though.
     [TestClass]
     public class TestCustomerCompareTo
     {
