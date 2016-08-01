@@ -12,6 +12,7 @@ namespace MailSystem
 
         protected virtual void OnMailArived(MailArrivedEventArgs e)
         {
+            //Awesome.
             MailArrived?.Invoke(this, e);
         }
 
